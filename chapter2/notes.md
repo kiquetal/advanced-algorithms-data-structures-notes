@@ -25,6 +25,14 @@ A heap is the concrete implementation of the priority queue
 
 2.5 Concrete data structures
 
+2.5.1 Comparing perfomance
+
+| Operation | Unsorted array | Sorted array | Balanced tree|
+| --------- | -------------- | ------------ | ------------ |
+| Insert    | O(1)           | O(n)         | O(log n)     |
+| Find-Minimum | O(1)        | O(1)         | O(1)         |
+| Delete-Minimum | O(n)      | O(1)         | O(log n)     |
+
 
 
 
