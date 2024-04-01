@@ -9,8 +9,22 @@
 - 2.3.4 Describing the datastructure:API 
 
 API: top(),peek(),insert(element,priority),remove(element),update(element,newPriority),size()
+
 Contract: The top element returned by the queue is always the element with highest priority currently stored
 in the list
+
+Algorithms
+
+Data Structure
+
+A heap is the concrete implementation of the priority queue
+
+2.4.1 Priority queue at work
+
+2.4.2 Priority matters: Generalize FIFO
+
+2.5 Concrete data structures
+
 
 
 
